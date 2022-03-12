@@ -2,6 +2,8 @@
 
 Use of the stochastic simulator GEMFSim to represent the propagation of an epidemic through a graph using the SIR model.
 
+Our final report is available in the file state_of_the_art_stochastic_sir (in French).
+
 Several simulation files are available:
 
 -normal.py : no restrictive measures
